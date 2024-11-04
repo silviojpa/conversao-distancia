@@ -8,6 +8,7 @@
 # dicas
 -------------------------------------------------
 - docker build -t conversao-distancia -f Dockerfile .
+#exemplo de porta utilizada 8181 para porta do containar 5000
 - docker run -d -p 8181:5000 conversao-distancia
 - docker login
 - docker build -t silvio69luiz/conversao-distancia:v1 .
