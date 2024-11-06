@@ -26,3 +26,6 @@ Obs: Criação de LB local com NodePort
 - kubectl cluster create meucluster --servers 1 --agents 2 -p "8080:30000@loadbalancer"
  
 
+# Dica adicional:
+
+- É recomendável criar um hábito de fazer git pull regularmente para manter seu repositório local sincronizado com o remoto. Isso evita erros de push rejeitados no futuro.
