@@ -4,6 +4,7 @@
 
 # Obs
 - Todo processo necessário para gerenciar o container vai ser orquestrado pela image python
+- Ferramenta utilizada para LB em ON-PREMISE é Metal LB em Data Center
 
 # dicas
 -------------------------------------------------
